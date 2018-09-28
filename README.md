@@ -1,4 +1,4 @@
-# Needleman-Wunsch-Algorithm-C-
+# Needleman Wunsch Algorithm Desicion Support System C++
 Algorithm to Algining Sequences of Strings
 
 This is Global Alignment Algortihm to align 2 sequences of strings 
