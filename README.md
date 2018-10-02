@@ -1,4 +1,4 @@
-# Needleman Wunsch Algorithm Desicion Support System C++
+# Plagiarism Detector Desicion Support System C++
 Algorithm for detecting plagiarism by using Needleman Wunsch Algorithm
 
 This is Global Alignment Algortihm to align 2 sequences of strings to detect the similarity based on score
